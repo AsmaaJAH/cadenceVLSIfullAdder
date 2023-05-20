@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      root
+HostName                       localhost.localdomain
+ProcessIdentifier              27613
+ProcessCreationTime_UTC        1683998425
+ProcessCreationTime_Readable   Sat May 13 20:20:25 2023 EEST
+AppIdentifier                  /usr/local/cdstree/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /usr/local/tsmc13/FinalProj/DotInverter/symbol/symbol.cdb
+TimeEditLocked                 Sat May 13 20:23:17 2023 EEST

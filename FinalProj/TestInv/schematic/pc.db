@@ -1,0 +1,13 @@
+#
+FinalProj DotInverter symbol
+I5
+#
+analogLib cap symbol
+C0
+#
+analogLib vdc symbol
+V1
+#ISCELL
+analogLib gnd symbol
+I2
+I1

@@ -1,0 +1,51 @@
+#
+FinalProj DotInverter symbol
+I2
+#
+analogLib res symbol
+R0
+#
+analogLib vdc symbol
+V3
+#
+tsmc13rf pmos1v symbol
+M0
+M10
+M1
+M7
+M13
+M6
+M16
+M12
+M5
+M11
+M14
+M15
+#
+tsmc13rf nmos1v symbol
+M19
+M22
+M24
+M17
+M21
+M23
+M18
+M20
+M37
+M38
+M36
+M25
+#ISCELL
+basic ipin symbol
+PIN4
+PIN6
+PIN5
+#ISCELL
+analogLib gnd symbol
+I5
+I6
+I4
+#ISCELL
+basic opin symbol
+PIN1
+PIN3

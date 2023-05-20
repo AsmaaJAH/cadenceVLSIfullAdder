@@ -1,0 +1,57 @@
+#
+FinalProj FA_Block symbol
+I32
+I56
+I70
+I31
+#
+analogLib vdc symbol
+V2
+V6
+V7
+V9
+V8
+V16
+V15
+V10
+V12
+#
+analogLib cap symbol
+C4
+C3
+C9
+C8
+C6
+#
+FinalProj DotInverter symbol
+I73
+I72
+I60
+I61
+I40
+I36
+I39
+I34
+I66
+I65
+I64
+I63
+I62
+I59
+I47
+#ISCELL
+analogLib gnd symbol
+I53
+I54
+I52
+I67
+I68
+I69
+I71
+I28
+I23
+I19
+I18
+I27
+I30
+I29

@@ -1,0 +1,49 @@
+#
+FinalProj DotInverterForRippleTest symbol
+I66
+I63
+I65
+I64
+I88
+I85
+I40
+I39
+I86
+I89
+#
+FinalProj FullAdderBlockTest symbol
+I97
+I96
+I95
+I79
+#
+analogLib vdc symbol
+V9
+V15
+V12
+V10
+V16
+V8
+V7
+V2
+#
+analogLib vpulse symbol
+V6
+#ISCELL
+basic noConn symbol
+I4
+I1
+I3
+I2
+I0
+#ISCELL
+analogLib gnd symbol
+I18
+I30
+I54
+I69
+I19
+I68
+I52
+I27
+I28

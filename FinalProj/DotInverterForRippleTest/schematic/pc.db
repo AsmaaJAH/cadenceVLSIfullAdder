@@ -1,0 +1,19 @@
+#
+tsmc13rf nmos1v symbol
+M0
+#
+tsmc13rf pmos1v symbol
+M1
+#
+analogLib vdc symbol
+V0
+#ISCELL
+analogLib gnd symbol
+I0
+I2
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1
